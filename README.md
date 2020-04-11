@@ -28,7 +28,7 @@
 
 ### Les roles :
 
-*  admin(nous l'avons ajouté dans l'onglet strapi "Roles & Permissions") : qui correspond au role de l'administrateur, y ajouté les comptes utlisateurs correspondants. Autoriser ces actions :
+*  admin (nous l'avons ajouté dans l'onglet strapi "Roles & Permissions") : qui correspond au role de l'administrateur, y ajouté les comptes utlisateurs correspondants. Autoriser ces actions :
   * create, delete, find, findone et update sur la collection Plat
   * find et delete sur la collection Commande
   * upload sur la collection Upload
