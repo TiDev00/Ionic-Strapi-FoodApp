@@ -1,6 +1,4 @@
-# Ionic-Strapi
-
-## Thierno Ibrahima Cissé 
+# Thierno Ibrahima Cissé 
 
 ## Master 2 GLSI
 
