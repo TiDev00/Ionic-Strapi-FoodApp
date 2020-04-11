@@ -51,9 +51,11 @@
 ```
 > npm install
 ```
-
 #### Lancer l'application avec la commande suivante :
 ```
 > strapi start
 ```
-
+#### Connexion à la base de donnée Strapi :
+ * Pour vous connectez à la base de données et l'administrer avec Strapi il faudra entrez les identifiants suivants :
+     identifiant : thierno
+     mot de passe : thierno12
