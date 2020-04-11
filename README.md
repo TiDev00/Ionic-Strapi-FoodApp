@@ -2,7 +2,7 @@
 
 ## Master 2 GLSI
 
-## Services Strapi que l'application Ionic-FoodApp utilisera pour les entités
+## Services Strapi que l'application de restauration Ionic-FoodApp utilisera pour les entités
 
 ### Les collections :
 
