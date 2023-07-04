@@ -1,4 +1,4 @@
-# Thierno Ibrahima Cissé / Master 2 GLSI
+# Master 2 GLSI
 
 ## Services Strapi que l'application de restauration Ionic-FoodApp utilisera pour les entités
 
